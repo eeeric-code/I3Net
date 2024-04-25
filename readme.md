@@ -3,11 +3,6 @@ Haofei Song, Xintian Mao, Jing Yu, Qingli Li, Yan Wang
 
 **Paper:** coming soon.
 
-##########################################
-
-########### The code will be released. ###########
-
-##########################################
 
 
 ## Requirements
