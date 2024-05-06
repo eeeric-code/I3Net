@@ -1,7 +1,7 @@
 # I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis (TMI 2024)
 Haofei Song, Xintian Mao, Jing Yu, Qingli Li, Yan Wang
 
-**Paper:** coming soon.
+**Paper:** <https://doi.org/10.1109/TMI.2024.3394033>.
 
 
 
