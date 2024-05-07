@@ -1,7 +1,7 @@
 # I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis (TMI 2024)
 Haofei Song, Xintian Mao, Jing Yu, Qingli Li, Yan Wang
 
-**Paper:** <https://doi.org/10.1109/TMI.2024.3394033>.
+**Paper:** <https://doi.org/10.1109/TMI.2024.3394033> or <http://arxiv.org/abs/2405.02857>.
 
 
 
@@ -31,6 +31,18 @@ bash train.sh
 ```
 ## Citation
 ```
+@article{Song_2024,
+   title={I3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis},
+   ISSN={1558-254X},
+   url={http://dx.doi.org/10.1109/TMI.2024.3394033},
+   DOI={10.1109/tmi.2024.3394033},
+   journal={IEEE Transactions on Medical Imaging},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Song, Haofei and Mao, Xintian and Yu, Jing and Li, Qingli and Wang, Yan},
+   year={2024},
+   pages={1–1} }
+
+
 ```
 
 
